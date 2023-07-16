@@ -25,7 +25,7 @@ The following table provides an overview of the 45-day challenge, indicating the
 | 10  |     ✅    | 25   |     ❌    | 40   |     ❌    |
 | 11  |     ✅    | 26   |     ❌    | 41   |     ❌    |
 | 12  |     ✅    | 27   |     ❌    | 42   |     ❌    |
-| 13  |     ❌    | 28   |     ❌    | 43   |     ❌    |
+| 13  |     ✅    | 28   |     ❌    | 43   |     ❌    |
 | 14  |     ❌    | 29   |     ❌    | 44   |     ❌    |
 | 15  |     ❌    | 30   |     ❌    | 45   |     ❌    |
 
