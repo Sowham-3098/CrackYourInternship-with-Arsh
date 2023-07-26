@@ -19,7 +19,7 @@ The following table provides an overview of the 45-day challenge, indicating the
 | 4   |     ✅    | 19   |     ✅    | 34   |     ❌    |
 | 5   |     ✅    | 20   |     ✅    | 35   |     ❌    |
 | 6   |     ✅    | 21   |     ✅    | 36   |     ❌    |
-| 7   |     ✅    | 22   |     ❌    | 37   |     ❌    |
+| 7   |     ✅    | 22   |     ✅    | 37   |     ❌    |
 | 8   |     ✅    | 23   |     ❌    | 38   |     ❌    |
 | 9   |     ✅    | 24   |     ❌    | 39   |     ❌    |
 | 10  |     ✅    | 25   |     ❌    | 40   |     ❌    |
